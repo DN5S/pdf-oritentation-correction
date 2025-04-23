@@ -6,7 +6,7 @@ Currently, is not perfectly accurate.
 Might need some kind of attention area or something.
 
 ## Sample Image
-![sample_image.png](sample_image.png)
+![sample.png](sample.png)
 
 ## Features
 - Image processing through GPU acceleration
