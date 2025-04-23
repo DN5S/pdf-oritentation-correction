@@ -2,6 +2,9 @@
 
 Python project that automatically detects and corrects skewed pages in PDF documents.
 
+Currently, is not perfectly accurate. 
+Might need some kind of attention area or something.
+
 ## Sample Image
 ![sample_image.png](sample_image.png)
 
